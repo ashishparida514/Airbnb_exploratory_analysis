@@ -16,4 +16,6 @@ The dataset is replica of airbnb new york city data of year 2019.The data is ava
 
 I have used  different SQL function such as joins , aggregate function , windows function etc.
 
+Table schema:
+![airbnb_Schema](https://github.com/user-attachments/assets/973febd9-4a3f-4c26-ac8e-b5cf258e1a30)
 
